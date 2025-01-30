@@ -1,6 +1,6 @@
 # എന്റെ ബ്ലോഗ് വെബ്സൈറ്റ് 📝
 
-[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-Here-brightgreen)](https://blogging-with-albin-.github.io)  
+[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-Here-brightgreen)](https://github.com/albin450/blogging-with-albin-.github.io)  
 HTML & CSS ഉപയോഗിച്ച് നിർമ്മിച്ച ഒരു ലളിതമായ സ്ഥിര (static) ബ്ലോഗിംഗ് വെബ്സൈറ്റ്.
 
 ## ✨ സവിശേഷതകൾ
